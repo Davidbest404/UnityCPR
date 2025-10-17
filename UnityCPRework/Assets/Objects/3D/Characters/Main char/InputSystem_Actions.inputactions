@@ -32,15 +32,6 @@
                     "processors": "",
                     "interactions": "Hold",
                     "initialStateCheck": false
-                },
-                {
-                    "name": "Up_Down",
-                    "type": "Button",
-                    "id": "2776c80d-3c14-4091-8c56-d04ced07a2b0",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -241,72 +232,6 @@
                     "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
-                },
-                {
-                    "name": "1D Axis",
-                    "id": "626c103b-ca9f-4da1-8ffd-1066f93686e1",
-                    "path": "1DAxis",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Up_Down",
-                    "isComposite": true,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "negative",
-                    "id": "59236714-924d-457b-aedb-2370336c9041",
-                    "path": "<Keyboard>/1",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";Keyboard&Mouse",
-                    "action": "Up_Down",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "positive",
-                    "id": "10638717-b756-4aff-9fcd-6d01cff4ad61",
-                    "path": "<Keyboard>/2",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": ";Keyboard&Mouse",
-                    "action": "Up_Down",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "1D Axis_D-Pad",
-                    "id": "02abe827-ac86-458e-b450-734b54edd5ce",
-                    "path": "1DAxis",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Up_Down",
-                    "isComposite": true,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "negative",
-                    "id": "9279bb78-f0b1-452b-b78d-e7b8fe47a47a",
-                    "path": "<Gamepad>/leftShoulder",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Up_Down",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "positive",
-                    "id": "72be7a4c-829b-465a-9dce-ffcdf5e8d011",
-                    "path": "<Gamepad>/rightShoulder",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Up_Down",
-                    "isComposite": false,
-                    "isPartOfComposite": true
                 },
                 {
                     "name": "",

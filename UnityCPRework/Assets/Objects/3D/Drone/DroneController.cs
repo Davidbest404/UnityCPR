@@ -3,25 +3,30 @@ using UnityEngine.InputSystem;
 
 public class DroneController : MonoBehaviour
 {
-    [SerializeField] private Rigidbody rigidBody;
-    [SerializeField] private float up_down_axis, forward_backward_axis, right_left_axis;
-    [SerializeField] private float forward_backward_angel = 0, right_left_angel = 0;
+    [SerializeField] private GameObject Player;
+    [SerializeField] private GameObject Drone;
 
-    [SerializeField] public float speed, angel;
+    [SerializeField] private bool turn;
 
-    [SerializeField] public InputActionAsset inputActions;
-    [SerializeField] private InputAction moveAction;
-    [SerializeField] private InputAction sprintAction;
-
-    void Awake()
+    private void Update()
     {
-        rigidBody = GetComponent<Rigidbody>();
-
-        moveAction = inputActions.FindActionMap("Player").FindAction("Move");
-        sprintAction = inputActions.FindActionMap("Player").FindAction("Up_Down");
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            Change();
+        }
     }
 
-    void Controlls()
+    private void Change()
     {
+        if (turn)
+        {
+            Player.SetActive(false);
+            Drone.SetActive(true);
+        }
+        else
+        {
+            Player.SetActive(true);
+            Drone.SetActive(false);
+        }        
     }
 }
