@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEngine;
+
+public class DeliteCoin : MonoBehaviour
+{
+    private void OnTriggerEnter(Collider other)
+    {
+        gameObject.SetActive(false);
+    }
+}
