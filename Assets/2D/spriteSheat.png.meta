@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 7110dde319973974e9eb388468a2bd76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -630433506232680174
+    second: spriteSheat_0
+  - first:
+      213: 2486277748588123735
+    second: spriteSheat_1
+  - first:
+      213: 8186886315149684857
+    second: spriteSheat_2
+  - first:
+      213: 7026628433407351393
+    second: spriteSheat_3
+  - first:
+      213: 267577608898031885
+    second: spriteSheat_4
+  - first:
+      213: -5903803592147983811
+    second: spriteSheat_5
+  - first:
+      213: -7016684754336999401
+    second: spriteSheat_6
+  - first:
+      213: -2316760755710018812
+    second: spriteSheat_7
+  - first:
+      213: -8723920104727947208
+    second: spriteSheat_8
+  - first:
+      213: -437816734010315703
+    second: spriteSheat_9
+  - first:
+      213: 8886824984724127200
+    second: spriteSheat_10
+  - first:
+      213: -2819177491896361679
+    second: spriteSheat_11
+  - first:
+      213: -6689113755087685231
+    second: spriteSheat_12
+  - first:
+      213: 208986375408494322
+    second: spriteSheat_13
+  - first:
+      213: 6258431344488273672
+    second: spriteSheat_14
+  - first:
+      213: 8357500614100132489
+    second: spriteSheat_15
+  - first:
+      213: -5516925921267832779
+    second: spriteSheat_16
+  - first:
+      213: -3693725817783801608
+    second: spriteSheat_17
+  - first:
+      213: 5203202801667942442
+    second: spriteSheat_18
+  - first:
+      213: 627126025487389159
+    second: spriteSheat_19
+  - first:
+      213: -8730479832359069711
+    second: spriteSheat_20
+  - first:
+      213: 4035069697203505867
+    second: spriteSheat_21
+  - first:
+      213: -9162455101183611949
+    second: spriteSheat_22
+  - first:
+      213: 5868909615673525282
+    second: spriteSheat_23
+  - first:
+      213: -3326273785381772102
+    second: spriteSheat_24
+  - first:
+      213: 650383533899842855
+    second: spriteSheat_25
+  - first:
+      213: -8892297151181199024
+    second: spriteSheat_26
+  - first:
+      213: -5265415988165679706
+    second: spriteSheat_27
+  - first:
+      213: 5599001908937148554
+    second: spriteSheat_28
+  - first:
+      213: -8738023020383386699
+    second: spriteSheat_29
+  - first:
+      213: -2653384565563419658
+    second: spriteSheat_30
+  - first:
+      213: 4642590943139427455
+    second: spriteSheat_31
+  - first:
+      213: -2039762954408924847
+    second: spriteSheat_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114f76f0104047f0800000000000000
+      internalID: -630433506232680174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrier
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1588
+        width: 96
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322852a9e9711ea0800000000000000
+      internalID: -5903803592147983811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1532
+        width: 96
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71818d4546abf9e90800000000000000
+      internalID: -7016684754336999401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1622
+        width: 432
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb65e0e5639dfd0800000000000000
+      internalID: -2316760755710018812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheSun
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1586
+        width: 468
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8385dc4d2e86ee680800000000000000
+      internalID: -8723920104727947208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1676
+        width: 296
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9822c81578ecbf370800000000000000
+      internalID: 8357500614100132489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538afa2ca11ff63b0800000000000000
+      internalID: -5516925921267832779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitShootColor
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1886
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ae4d50ff3dbcc0800000000000000
+      internalID: -3693725817783801608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserBeam
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1723
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a282cbf516d753840800000000000000
+      internalID: 5203202801667942442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1667
+        width: 192
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1149a2ccff3b800800000000000000
+      internalID: 627126025487389159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackingEnemyShip
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1393
+        width: 247
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7968939da17d680800000000000000
+      internalID: -8730479832359069711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_C
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1317
+        width: 260
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca02c9c2827ff730800000000000000
+      internalID: 4035069697203505867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exoplanet
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1313
+        width: 176
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db2c7751ab68d080800000000000000
+      internalID: -9162455101183611949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingedPlanet
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1318
+        width: 376
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224481d533e827150800000000000000
+      internalID: 5868909615673525282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmoredAttackEnemyShip
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 360
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab420a49d93b6d1d0800000000000000
+      internalID: -3326273785381772102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_B
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 970
+        width: 252
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7250dd1d060a60900800000000000000
+      internalID: 650383533899842855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DwarfPlanet
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1068
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05960aabad6389480800000000000000
+      internalID: -8892297151181199024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipShield
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 764
+        width: 304
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5e8be5e0c7de6b0800000000000000
+      internalID: -5265415988165679706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_A
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 650
+        width: 324
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88cee64296a3bd40800000000000000
+      internalID: 5599001908937148554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_S
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 487
+        width: 440
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ccd6eb5e4cb680800000000000000
+      internalID: -8738023020383386699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_1
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3961dbbc84d2bd0800000000000000
+      internalID: -2653384565563419658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 273
+        width: 352
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7475438ddbcd6040800000000000000
+      internalID: 4642590943139427455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_SSS
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 352
+        width: 248
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159647c666e41b3e0800000000000000
+      internalID: -2039762954408924847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Color
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1950
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d73710b03899148ba0cb6e3bdc585a
+      internalID: 6258431344488273672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be6c0f4510ca794084428b71212d773
+      internalID: 2486277748588123735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8dd8c8eb9ee16114abf159b88cc6d8e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArmoredAttackEnemyShip: -3326273785381772102
+      AttackingEnemyShip: -8730479832359069711
+      BG_1: -2653384565563419658
+      BG_2: 2486277748588123735
+      Barrier: -5903803592147983811
+      Border: -7016684754336999401
+      Button: -5516925921267832779
+      DwarfPlanet: -8892297151181199024
+      Exoplanet: -9162455101183611949
+      Explosion: 627126025487389159
+      Hit: -630433506232680174
+      HitShootColor: -3693725817783801608
+      Hit_Color: 6258431344488273672
+      LaserBeam: 5203202801667942442
+      Moon: 8357500614100132489
+      Player: 4642590943139427455
+      RingedPlanet: 5868909615673525282
+      ShipShield: -5265415988165679706
+      Square: -2316760755710018812
+      Star_A: 5599001908937148554
+      Star_B: 650383533899842855
+      Star_C: 4035069697203505867
+      Star_S: -8738023020383386699
+      Star_SSS: -2039762954408924847
+      TheSun: -8723920104727947208
+      spriteSheat_10: 8886824984724127200
+      spriteSheat_11: -2819177491896361679
+      spriteSheat_12: -6689113755087685231
+      spriteSheat_13: 208986375408494322
+      spriteSheat_2: 8186886315149684857
+      spriteSheat_3: 7026628433407351393
+      spriteSheat_33: 1303990573
+      spriteSheat_4: 267577608898031885
+      spriteSheat_9: -437816734010315703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
